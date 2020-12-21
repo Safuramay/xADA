@@ -1,0 +1,6 @@
+framework module Pods_ADAFriends {
+  umbrella header "Pods-ADAFriends-umbrella.h"
+
+  export *
+  module * { export * }
+}
